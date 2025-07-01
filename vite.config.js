@@ -1,5 +1,6 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
+import postcssNesting from "postcss-nesting";
 
 // https://vite.dev/config/
 
